@@ -7,7 +7,7 @@
 - Estudando Python
 - Super disposto a aprender e ter novas experiências
 - Sinto que não nasci para ser só mais um
-- Adora praticar esportes
+- Adoro praticar esportes
 
 <div align="center">
   <a href="https://github.com/Linsjxl">
