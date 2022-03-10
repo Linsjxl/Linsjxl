@@ -2,9 +2,12 @@
 
 
 
-- 🔭 Atualmente estou trabalhando com desafios de nível iniciante
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+- Atualmente estou trabalhando com desafios de nível iniciante
+- Estou no segundo período do curso de Ciência da Computação
+- Estudando Python
+- Super disposto a aprender e ter novas experiências
+- Sinto que não nasci para ser só mais um
+- Adora praticar esportes
 
 <div align="center">
   <a href="https://github.com/Linsjxl">
